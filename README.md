@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Ujjwal Sahore and I'm a software developer, from punjab.</p>
+<p align="left">My name is Ujjwal Sahore and I'm a software developer.</p>
 
 ###
 
